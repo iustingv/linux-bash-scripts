@@ -7,3 +7,6 @@ A collection of Bash scripts for Linux system automation and monitoring.
 - scripts/disk_alert.sh
 - scripts/health_check.sh
 - scripts/script.sh
+
+### How to run
+See docs/ for per-script usage.
