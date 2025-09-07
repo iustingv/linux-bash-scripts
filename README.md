@@ -10,3 +10,9 @@ A collection of Bash scripts for Linux system automation and monitoring.
 
 ### How to run
 See docs/ for per-script usage.
+
+## Documentation
+- [docs/backup.md](docs/backup.md)
+- [docs/disk_alert.md](docs/disk_alert.md)
+- [docs/health_check.md](docs/health_check.md)
+- [docs/script.md](docs/script.md)
