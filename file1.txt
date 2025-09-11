@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from BOTH (resolved)
+=======
+hello from GitHub (conflict)
+>>>>>>> 702d31e7da65c232e748c42a13b72a88155ff1c6
