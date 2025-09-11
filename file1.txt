@@ -1,1 +1,1 @@
-2 hello from GitHub UPDATE ME
+hello from EC2 (conflict)
