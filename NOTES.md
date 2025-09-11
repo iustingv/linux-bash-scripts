@@ -1,0 +1,1 @@
+- Practicing Git on EC2
